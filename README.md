@@ -8,3 +8,5 @@ Next upload the hardware code into the devices.
 Setup a database server for the dashboard.
 Upload the dashboard files on a XAMP server.
 Once everything is uploaded and linked properly, the dashboard will be able to control any connected device!
+
+To create an android app, use online builders like appsgeyser.com , a webview app can be created using similar tools.
