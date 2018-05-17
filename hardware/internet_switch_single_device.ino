@@ -1,6 +1,6 @@
 #define _DISABLE_TLS_
 #define _DEBUG_
-#define THINGER_SERVER "139.59.41.62"
+#define THINGER_SERVER "serverIP" //Enter your thinger server ip address
 
 #include <SPI.h>
 #include <ESP8266WiFi.h>
@@ -8,10 +8,9 @@
 #include <DNSServer.h>
 #include <ESP8266WebServer.h>
 #include <WiFiManager.h>
-
-#define USERNAME "admin"
-#define DEVICE_ID "multi_test"
-#define DEVICE_CREDENTIAL "abc@123"
+#define USERNAME "username" //Enter username
+#define DEVICE_ID "deviceID"  //Enter device ID
+#define DEVICE_CREDENTIAL "deviceCredential"  //Enter device credentials
 
 
 ThingerWifi thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
