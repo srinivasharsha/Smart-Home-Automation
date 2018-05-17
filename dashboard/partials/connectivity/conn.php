@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("159.65.159.159","remote","Osl@123456789*","light");
+$con = mysqli_connect("SERVER_IP","DB_USER","DB_PASSWORD","DB_NAME");
 if(! $con)
 {
 ?>
