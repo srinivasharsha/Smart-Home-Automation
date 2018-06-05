@@ -40,7 +40,7 @@
             </form>
        </div>
 
-    
+    //Cookie usage
 	
     <?php
         if(isset($_COOKIE['email'])and isset($_COOKIE['password'])){
