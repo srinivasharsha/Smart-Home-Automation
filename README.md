@@ -1,4 +1,4 @@
-#Smart Home Automation
+Smart Home Automation
 Smart home automation system for over the internet control of electrical appliances through a web based dashboard or mobile app.
 
 The project uses an open source platform, thinger.io to make API calls to control the devices over the internet.
@@ -12,5 +12,5 @@ Once everything is uploaded and linked properly, the dashboard will be able to c
 
 To create an android app, use online builders like appsgeyser.com , a webview app can be created using similar tools.
 
-#Acknowledgements
+Acknowledgements
 http://thinger.io
