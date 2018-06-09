@@ -13,4 +13,5 @@ Once everything is uploaded and linked properly, the dashboard will be able to c
 To create an android app, use online builders like appsgeyser.com , a webview app can be created using similar tools.
 
 Acknowledgements
+
 http://thinger.io
