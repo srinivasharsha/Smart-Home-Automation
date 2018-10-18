@@ -26,8 +26,8 @@ void setup() {
   pinMode(D8, INPUT);
   Serial.begin(115200);
   WiFiManager wifiManager;
-  wifiManager.autoConnect("SIH-project-darshan");
-  Serial.println("connected...yeey :)");
+  wifiManager.autoConnect("Smart-Device");
+  Serial.println("connected...yeey!)");
 
   // digital pin control example (i.e. turning on/off a light, a relay, configuring a parameter, etc)
 
